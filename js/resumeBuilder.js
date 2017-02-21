@@ -1,6 +1,6 @@
 var bio = {
 	"name": "Cross Bell",
-	"role": "???",
+	"role": "Stay at home",
   "contacts": {
     "mobile": "15115683713",
 		"email": "hezhengda@163.com",
