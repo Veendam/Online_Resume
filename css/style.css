@@ -94,7 +94,7 @@ a {
 
 .welcome-message {
   font-style: italic;
-  font-size: 28px;
+  font-size: 28px;c
   color: red;
   line-height: 28px;
 }
@@ -220,7 +220,4 @@ span {
   }
 }
 
-#lets-connect {
-  color : black;
-}
 
